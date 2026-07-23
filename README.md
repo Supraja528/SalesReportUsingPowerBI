@@ -4,6 +4,8 @@
 
 This project presents an interactive Power BI dashboard developed to analyze and visualize **Boxes Shipped** across different dimensions. The dashboard provides valuable insights into sales performance, country-wise distribution, and shipment trends over time, enabling better data-driven decision-making.
 
+<img width="1867" height="810" alt="Screenshot 2026-07-23 064816" src="https://github.com/user-attachments/assets/2f3ba9a8-721a-466b-8102-06d94892366a" />
+
 ---
 
 ## 🎯 Objectives
